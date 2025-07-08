@@ -6,3 +6,4 @@ newspaper3k
 openpyxl
 xlsxwriter
 lxml
+lxml_html_clean
